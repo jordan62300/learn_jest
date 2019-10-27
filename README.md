@@ -32,5 +32,10 @@
 
 Le test timer.test.js teste la fonction sleep dans le fichier timer.js 
 
+- *Mock*
+
+Les mocks permettent de simuler des données que nous n'avons pas , par exemple si nous voulons tester les données renvoyer par une api sans se connecter a une api
+Voir fichier discord.test.js qui teste la fonction ping() du fichier discord.js
+
 
 
