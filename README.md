@@ -10,6 +10,14 @@
 
 > npm add -D jest
 
+optionnel :
+
+- setup fetch mock 
+
+> npx jest --init
+
+[Jest-Fetch-Mock](https://github.com/jefflau/jest-fetch-mock)
+
 # Utilisation 
 
 > npx jest

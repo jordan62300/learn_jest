@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^24.9.0",
+    "jest-fetch-mock": "^2.1.2"
   },
   "dependencies": {
     "@babel/core": "^7.6.4",
